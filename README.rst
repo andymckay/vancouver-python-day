@@ -2,6 +2,11 @@ This is the Vancouver Python Dev Days site.
 
 Here you'll find all the information about the event.
 
+Sign up
+-------
+
+At Eventbrite: http://vanpyday.eventbrite.com/
+
 Submitting proposals
 --------------------
 
@@ -9,8 +14,8 @@ Submitting proposals
 
 * Then::
 
-    cd proposals
-    cp template.rst my-awesome-talk.rst
+  cd proposals
+  cp template.rst my-awesome-talk.rst
 
 * Complete your awesome talk proposal.
 
@@ -22,7 +27,4 @@ don't post anything that might be sensitive.
 All talks are 30 minutes long, including Q+A, so aim for about 25 mins with
 5 mins of Q+A.
 
-Talk deadline closes
---------------------
-
-Sometime soon.
+When does talk deadline close? Sometime soon.
