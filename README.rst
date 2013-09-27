@@ -1,11 +1,18 @@
-This is the Vancouver Python Dev Days site.
+Vancouver Python Day
+====================
+
+The Vancouver Python User Group and the Vancouver Django Meetup Group are
+pleased to present **Vancouver Python Day**, a mini-conference on all things
+Python.
+
+This event will be held on Saturday November 16, 2013, 10AM-4PM, somewhere in
+the Downtown Vancouver, BC, area.
+
+Tickets will be available at http://vanpyday.eventbrite.com/ after the final
+venue details have been sorted out.
 
 Here you'll find all the information about the event.
 
-Sign up
--------
-
-At Eventbrite: http://vanpyday.eventbrite.com/
 
 Submitting proposals
 --------------------
@@ -14,8 +21,8 @@ Submitting proposals
 
 * Then::
 
-  cd proposals
-  cp template.rst my-awesome-talk.rst
+    cd proposals
+    cp template.rst my-awesome-talk.rst
 
 * Complete your awesome talk proposal.
 
