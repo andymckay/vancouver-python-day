@@ -9,8 +9,8 @@ Submitting proposals
 
 * Then::
 
-  cd proposals
-  cp template.rst my-awesome-talk.rst
+    cd proposals
+    cp template.rst my-awesome-talk.rst
 
 * Complete your awesome talk proposal.
 
