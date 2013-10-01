@@ -5,8 +5,8 @@ The Vancouver Python User Group and the Vancouver Django Meetup Group are
 pleased to present **Vancouver Python Day**, a mini-conference on all things
 Python.
 
-This event will be held on Saturday November 16, 2013, 10AM-4PM, somewhere in
-the Downtown Vancouver, BC, area.
+This event will be held on Saturday November 16, 2013, 9:45AM-4PM, at SFU
+Harbour Centre in Downtown Vancouver, BC, Canada.
 
 Tickets will be available at http://vanpyday.eventbrite.com/ after the final
 venue details have been sorted out.
@@ -28,10 +28,11 @@ Submitting proposals
 
 * Send us a pull request.
 
-Please note, that the talk submission process is a completely open process, so
+Please note that the talk submission process is a completely open process, so
 don't post anything that might be sensitive.
 
-All talks are 30 minutes long, including Q+A, so aim for about 25 mins with
-5 mins of Q+A.
+Our plan is to schedule talks in 30 minute segments, so aim for about 25 mins
+with 5 mins of Q+A. If you think your talk will require more than 30 minutes,
+please note this in your proposal.
 
-When does talk deadline close? Sometime soon.
+When will the talk deadline close? Sometime soon :)
