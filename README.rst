@@ -35,4 +35,6 @@ Our plan is to schedule talks in 30 minute segments, so aim for about 25 mins
 with 5 mins of Q+A. If you think your talk will require more than 30 minutes,
 please note this in your proposal.
 
-When will the talk deadline close? Sometime soon :)
+The deadline for talk submissions is **Thursday, October 17, 2013 at 23:59
+Pacific Time**. If you have already submitted a proposal, please feel free to
+submit revisions up to the deadline via pull request.
