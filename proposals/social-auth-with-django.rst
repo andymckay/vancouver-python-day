@@ -36,7 +36,7 @@ Django developers wishing to implement Social Logins. Anyone intrested in Social
 Given before?:
 ==============
 
-By the time Vancouver Python day happens, I will have given an abridged verion in my company.
+By the time Vancouver Python day happens, I will have given an abridged version of this talk to my company.
 
 
 About you:
