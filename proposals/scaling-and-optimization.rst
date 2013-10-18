@@ -35,7 +35,7 @@ on. I also contribute to several open source projects in my spare time,
 and I especially enjoy collaborating with people to help solve app
 deployments, either on their own infrastructure or with someone else's.
 I also have a blog at http://blog.bacongobbler.com/archive.html and you
-can always follow @bacongobbler_ on Twitter.
+can always follow bacongobbler_ on Twitter.
 
 .. _ActiveState: http://activestate.com
-.. _@bacongobbler: https://www.twitter.com/bacongobbler
+.. _bacongobbler: https://www.twitter.com/bacongobbler
