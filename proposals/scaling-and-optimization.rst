@@ -38,4 +38,4 @@ I also have a blog at http://blog.bacongobbler.com/archive.html and you
 can always follow @bacongobbler_ on Twitter.
 
 .. _ActiveState: http://activestate.com
-.. _bacongobbler: https://www.twitter.com/bacongobbler
+.. _@bacongobbler: https://www.twitter.com/bacongobbler
