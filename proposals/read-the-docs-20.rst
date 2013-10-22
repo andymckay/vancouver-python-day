@@ -23,14 +23,17 @@ No promises,
 but it should be shipping around the time of the conference.
 
 
-Intendened audience:
+Intendened audience
+~~~~~~~~~~~~~~~~~~~
 
 Users of Read the Docs, Django developers, Devops perople
 
-Given before?:
+Given before?
+~~~~~~~~~~~~~
 
 Nope.
 
-About you:
+About you
+~~~~~~~~~
 
 I help maintain Read the Docs. I also run a conference called Write the Docs. 
