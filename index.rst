@@ -7,8 +7,12 @@ pleased to present **Vancouver Python Day**, a one-day mini conference on all
 things Python. We have an awesome schedule of talks lined up, covering topics
 ranging from web development, cloud computing, animation, and more!
 
-This event will be held on **Saturday November 16, 2013**, 9:30AM-4:00PM, at
-**SFU Harbour Centre** in Downtown Vancouver, BC, Canada.
+:When: | Saturday November 16, 2013
+       | 9:30AM - 4:30PM
+       | (Registration begins at 9:00AM)
+:Where: | Fletcher Challenge Canada Theatre #1900
+        | SFU Harbour Centre
+        | 515 West Hastings Street, Vancouver
 
 Vancouver Python Day is proud to be part of
 `Vancouver Developer Week 2013 <http://vancouver.devweek.org/>`_.
@@ -76,7 +80,7 @@ Contact
 -------
 
 Vancouver Python Day is organized by **Bryan Chow** and **Andy McKay**. You can
-reach us at vanpyday at gmail.
+reach us at *vanpyday* at *gmail*.
 
 See you at the conference!
 
