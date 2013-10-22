@@ -26,7 +26,7 @@ but it should be shipping around the time of the conference.
 Intendened audience
 ~~~~~~~~~~~~~~~~~~~
 
-Users of Read the Docs, Django developers, Devops perople
+Users of Read the Docs, Python developers, Devops perople
 
 Given before?
 ~~~~~~~~~~~~~
