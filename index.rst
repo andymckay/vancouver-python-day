@@ -20,12 +20,11 @@ Vancouver Python Day is proud to be part of
 Getting Tickets
 ---------------
 
-**Tickets are available NOW!** Get your tickets here:
-http://vanpyday.eventbrite.com/
+**Ticket sales will end on Tuesday November 12 at 11:55PM.** Get your tickets
+here: http://vanpyday.eventbrite.com/
 
-Space is limited, so we advise buying your tickets as early as possible if you
-plan to attend. Thanks to our generous sponsors for allowing us to offer
-conference tickets at an extremely affordable price.
+Thanks to our generous sponsors for allowing us to offer conference tickets at
+an extremely affordable price.
 
 Scheduled Talks
 ---------------
