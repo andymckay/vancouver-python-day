@@ -29,29 +29,31 @@ an extremely affordable price.
 Scheduled Talks
 ---------------
 
-| **Running your Python Applications on Google Compute Engine**
-| Brian Dorsey, Google
-|
-| **iPython and the iPython Notebook**
+| **9.45 &bull; iPython and the iPython Notebook**
 | Ted Kirkpatrick
 |
-| **Scaling the Facebook Cache Infrastructure with Python**
-| Yannick Gingras, Facebook
+| **10:20 &bull; Running your Python Applications on Google Compute Engine**
+| Brian Dorsey, Google
 |
-| **Building a REST API with Best Practices**
-| Ganesh Swami, Silota
-|
-| **Python in Animation**
-| Kirk Chantraine, Bron Animation
-|
-| **Controlling Your Cloud with libcloud**
-| Brian Curtin, Rackspace
-|
-| **Meta-Programming in Python**
+| **10:55 &bull; Meta-Programming in Python**
 | Brendan Forsyth, A Thinking Ape
 |
-| **Raspberry-Python-Pi for Hardware Hacking Fun!**
+| **11:30 &bull; Python in Animation**
+| Kirk Chantraine, Bron Animation
+|
+| **1:00 &bull; Scaling the Facebook Cache Infrastructure with Python**
+| Yannick Gingras, Facebook
+|
+| **1:35 &bull; Controlling Your Cloud with libcloud**
+| Brian Curtin, Rackspace
+|
+| **2:10 &bull; Building a REST API with Best Practices**
+| Ganesh Swami, Silota
+|
+| **2:45 &bull; Raspberry-Python-Pi for Hardware Hacking Fun!**
 | Daniel Bader, Mobify
+
+Please see `the agenda for the full schedule <http://www.vanpyday.com/en/latest/agenda.html>`_.
 
 Lightning Talks
 ---------------
