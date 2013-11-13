@@ -58,9 +58,8 @@ Please see `the agenda for the full schedule <http://www.vanpyday.com/en/latest/
 Lightning Talks
 ---------------
 
-Time will be provided for Python and Django lightning talks. If you have a
-5-minute talk you'd like to present, contact one of the organizers and we'll
-do our best to fit you in.
+Time will be provided for Python and Django lightning talks. Sign up will be on
+site.
 
 Sponsors
 --------
