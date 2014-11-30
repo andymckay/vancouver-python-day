@@ -21,4 +21,4 @@ Long version
 
 This is basically the same as `Pycon <https://us.pycon.org/2013/about/code-of-conduct/>`_ and `DjangoCon <http://www.djangocon.us/about/conduct/>`_ policy.
 
-If there's any issues contact Andy (778 968 3901) or Bryan immediately.
+If there's any issues contact Andy or Bryan immediately.
