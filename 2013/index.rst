@@ -1,3 +1,5 @@
+.. _2013-index:
+
 Vancouver Python Day
 ====================
 

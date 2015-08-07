@@ -41,6 +41,11 @@ at *vanpyday* at *gmail*.
 
 See you at the conference!
 
+Past Events
+-----------
+
+:ref:`Vancouver Python Day 2013 <2013-index>`
+
 .. toctree::
    :maxdepth: 1
 
