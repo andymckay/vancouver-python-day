@@ -8,8 +8,8 @@ Agenda
 9:40 - 10:10  Talk
 10:10 - 10:40 Talk
 10:40 - 11:00 *Break*
-11:00 - 11:30 Talk
-11:30 - 12:00 Talk
+11:00 - 11:30 Bill Mills - Spreading Python Skills To The Scientific Community 
+11:30 - 12:00 Tiffany Timbers - Using The Python Data Toolkit; A Live Demo!
 12:00 - 1:00  *Lunch Break*
 1:00 - 1:30   Talk
 1:30 - 2:00   Talk
