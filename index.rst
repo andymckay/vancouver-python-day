@@ -12,10 +12,24 @@ ranging from web development, cloud computing, animation, and more!
 :Where: | Mobify Vancouver
         | #300 - 948 Homer St, Vancouver, BC
 
+Keynote
+-------
+
+We are pleased to have
+`Russell Keith-Magee <https://twitter.com/freakboy3742>`_, president of the
+`Django Software Foundation <https://www.djangoproject.com/foundation/>`_ as
+our keynote speaker. Russell will be joining us all the way from Australia!
+
 Scheduled Talks
 ---------------
 
-TBA
+| **Keynote**
+| Russell Keith-Magee, Django Software Foundation
+|
+| **Talk title**
+| Speaker name
+
+See :ref:`the agenda <2015-agenda>` for the full schedule.
 
 Lightning Talks
 ---------------
