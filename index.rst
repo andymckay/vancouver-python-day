@@ -26,8 +26,8 @@ Scheduled Talks
 | **Keynote**
 | Russell Keith-Magee, Django Software Foundation
 |
-| **Talk title**
-| Speaker name
+| **Interesting new features in Python 3.5**
+| Brett Cannon, Microsoft
 
 See :ref:`the agenda <2015-agenda>` for the full schedule.
 
