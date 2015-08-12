@@ -28,6 +28,12 @@ Scheduled Talks
 |
 | **Interesting new features in Python 3.5**
 | Brett Cannon, Microsoft
+|
+| **Spreading Python Skills To The Scientific Community**
+| Bill Mills, Mozilla Science Lab
+|
+| **Using The Python Data Toolkit: A Live Demo!**
+| Tiffany Timbers
 
 See :ref:`the agenda <2015-agenda>` for the full schedule.
 
