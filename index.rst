@@ -29,13 +29,13 @@ Scheduled Talks
 | **Socializing and Networking for Awkward Humans**
 | Carly Slater
 |
-| **Spreading Python Skills To The Scientific Community**
+| **Spreading Python Skills to the Scientific Community**
 | Bill Mills, Mozilla Science Lab
 |
-| **Using The Python Data Toolkit: A Live Demo!**
+| **Using the Python Data Toolkit: A Live Demo!**
 | Tiffany Timbers
 |
-| **Interesting new features in Python 3.5**
+| **Interesting New Features in Python 3.5**
 | Brett Cannon, Microsoft
 
 See :ref:`the agenda <2015-agenda>` for the full schedule.
