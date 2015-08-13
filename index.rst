@@ -23,17 +23,20 @@ our keynote speaker. Russell will be joining us all the way from Australia!
 Scheduled Talks
 ---------------
 
-| **Keynote**
+| **Keynote: The State of Mobile Python**
 | Russell Keith-Magee, Django Software Foundation
 |
-| **Interesting new features in Python 3.5**
-| Brett Cannon, Microsoft
+| **Socializing and Networking for Awkward Humans**
+| Carly Slater
 |
 | **Spreading Python Skills To The Scientific Community**
 | Bill Mills, Mozilla Science Lab
 |
 | **Using The Python Data Toolkit: A Live Demo!**
 | Tiffany Timbers
+|
+| **Interesting new features in Python 3.5**
+| Brett Cannon, Microsoft
 
 See :ref:`the agenda <2015-agenda>` for the full schedule.
 
