@@ -15,9 +15,10 @@ ranging from web development, cloud computing, animation, and more!
 How to Attend
 -------------
 
-Thanks to our generous sponsors, admission for this event is FREE! Please visit
-`our event page on Meetup.com <http://www.meetup.com/vanpyz/events/223764139/>`_
-to RSVP.
+Thanks to our generous sponsors, admission for this event is FREE!
+
+RSVP here:
+`http://www.meetup.com/vanpyz/events/223764139/ <http://www.meetup.com/vanpyz/events/223764139/>`_
 
 Keynote
 -------
