@@ -12,6 +12,13 @@ ranging from web development, cloud computing, animation, and more!
 :Where: | Mobify Vancouver
         | #300 - 948 Homer St, Vancouver, BC
 
+How to Attend
+-------------
+
+Thanks to our generous sponsors, admission for this event is FREE! Please visit
+`our event page on Meetup.com <http://www.meetup.com/vanpyz/events/223764139/>`_
+to RSVP.
+
 Keynote
 -------
 
@@ -54,6 +61,8 @@ grateful for their support.
 
 | **Mobify**
 | http://www.mobify.com/
+
+(Other sponsors TBA soon!)
 
 Contact
 -------
