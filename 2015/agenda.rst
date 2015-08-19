@@ -12,7 +12,7 @@ Agenda
 11:30 - 12:00 Tiffany Timbers - Using the Python Data Toolkit: A Live Demo!
 12:00 - 1:00  *Lunch Break*
 1:00 - 1:30   Brett Cannon - Interesting New Features in Python 3.5
-1:30 - 2:00   *To Be Announced*
+1:30 - 2:00   Russell Keith-Magee - I Never Meta Model I Didn't Like
 2:00 - 2:20   *Break*
 2:20 - 3:00   Lightning Talks
 3:00 - 3:15   Closing remarks
