@@ -45,6 +45,9 @@ Scheduled Talks
 |
 | **Interesting New Features in Python 3.5**
 | Brett Cannon, Microsoft
+|
+| **Algorithmic Trading in Python**
+| Simon Thornington
 
 See :ref:`the agenda <2015-agenda>` for the full schedule.
 
