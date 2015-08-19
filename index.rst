@@ -62,6 +62,9 @@ grateful for their support.
 
 | **Mobify**
 | http://www.mobify.com/
+|
+| **Heroku**
+| https://www.heroku.com/
 
 (Other sponsors TBA soon!)
 
