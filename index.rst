@@ -5,7 +5,7 @@ The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
 `Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`_ are
 pleased to present **Vancouver Python Day**, a one-day mini conference on all
 things Python. We have an awesome schedule of talks lined up, covering topics
-ranging from web development, cloud computing, animation, and more!
+ranging from web development, mobile computing, data analysis and more!
 
 :When: | Saturday September 12, 2015
        | 9:30AM - 4:00PM
@@ -22,9 +22,7 @@ Vancouver Python Day could not happen without our awesome sponsors! Please read
 How to Attend
 -------------
 
-Thanks to our generous sponsors, admission for this event is FREE!
-
-RSVP here:
+Thanks to our generous sponsors, admission for this event is FREE! RSVP here:
 `http://www.meetup.com/vanpyz/events/223764139/ <http://www.meetup.com/vanpyz/events/223764139/>`_
 
 Keynote
@@ -82,5 +80,6 @@ Past Events
    :maxdepth: 1
 
    2015/agenda.rst
+   2015/sponsors.rst
    2015/code-of-conduct.rst
    2015/speakers.rst
