@@ -63,13 +63,11 @@ Sponsors
 Vancouver Python Day could not happen without our awesome sponsors! We are
 grateful for their support.
 
-| **Mobify**
-| http://www.mobify.com/
-|
-| **Heroku**
-| https://www.heroku.com/
+.. image:: /2015/images/mobify.png
+.. image:: /2015/images/heroku.png
+.. image:: /2015/images/colony.png
 
-(Other sponsors TBA soon!)
+:ref:`More about our awesome sponsors <2015-sponsors>`
 
 Contact
 -------
