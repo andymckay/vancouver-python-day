@@ -12,6 +12,13 @@ ranging from web development, cloud computing, animation, and more!
 :Where: | Mobify Vancouver
         | #300 - 948 Homer St, Vancouver, BC
 
+.. image:: /2015/images/mobify_s.png
+.. image:: /2015/images/colony_s.png
+.. image:: /2015/images/heroku_s.png
+
+Vancouver Python Day could not happen without our awesome sponsors! Please read
+:ref:`more about our sponsors <2015-sponsors>`.
+
 How to Attend
 -------------
 
@@ -56,18 +63,6 @@ Lightning Talks
 
 Time will be provided for Python and Django lightning talks. Sign up will be on
 site.
-
-Sponsors
---------
-
-Vancouver Python Day could not happen without our awesome sponsors! We are
-grateful for their support.
-
-.. image:: /2015/images/mobify.png
-.. image:: /2015/images/heroku.png
-.. image:: /2015/images/colony.png
-
-:ref:`More about our awesome sponsors <2015-sponsors>`
 
 Contact
 -------
