@@ -4,8 +4,7 @@ Vancouver Python Day
 The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
 `Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`_ are
 pleased to present **Vancouver Python Day**, a one-day mini conference on all
-things Python. We have an awesome schedule of talks lined up, covering topics
-ranging from web development, mobile computing, data analysis and more!
+things Python.
 
 :When: | Saturday September 12, 2015
        | 9:30AM - 4:00PM
@@ -16,70 +15,63 @@ ranging from web development, mobile computing, data analysis and more!
 .. image:: /2015/images/colony_s.png
 .. image:: /2015/images/heroku_s.png
 
-Vancouver Python Day could not happen without our awesome sponsors! Please read
-:ref:`more about our sponsors <2015-sponsors>`.
+Vancouver Python Day would not have been possible without our awesome sponsors!
+Please check them out at :ref:`more about our sponsors <2015-sponsors>`.
 
-How to Attend
--------------
+Vancouver Python Day is a not-for-profit event run by volunteers. All
+sponsor-provided funds are applied towards event expenses.
 
-Thanks to our generous sponsors, admission for this event is FREE! RSVP here:
-`http://www.meetup.com/vanpyz/events/223764139/ <http://www.meetup.com/vanpyz/events/223764139/>`_
+Event Recap
+-----------
 
-Keynote
--------
-
-We are pleased to have
-`Russell Keith-Magee <https://twitter.com/freakboy3742>`_, president of the
-`Django Software Foundation <https://www.djangoproject.com/foundation/>`_ as
-our keynote speaker. Russell will be joining us all the way from Australia!
-
-Scheduled Talks
----------------
+Vancouver Python Day 2015 was a success! Thank you to all of our speakers,
+sponsors and attendees for making this an awesome event. Here's a recap of the
+day's talks.
 
 | **Keynote: The State of Mobile Python**
 | Russell Keith-Magee, Django Software Foundation
+| `Slides <https://speakerdeck.com/freakboy3742/python-on-the-move-the-state-of-mobile-python-1>`_
 |
 | **Socializing and Networking for Awkward Humans**
-| Carly Slater
+| `Carly Slater <https://twitter.com/carlyslater>`_
 |
 | **Spreading Python Skills to the Scientific Community**
-| Bill Mills, Mozilla Science Lab
+| `Bill Mills <https://twitter.com/billdoesphysics>`_, Mozilla Science Lab
+| `Slides <http://billmills.github.io/scienceXpython/>`_
 |
 | **Using the Python Data Toolkit: A Live Demo!**
 | Tiffany Timbers
+| `Presentation materials <https://github.com/ttimbers/VanPy_2015>`_
 |
 | **Interesting New Features in Python 3.5**
-| Brett Cannon, Microsoft
+| `Brett Cannon <https://twitter.com/brettsky>`_, Microsoft
+| `Slides <https://speakerdeck.com/brettcannon/interesting-new-features-in-python-3-dot-5>`_
 |
 | **Algorithmic Trading in Python**
 | Simon Thornington
 
+**Lightning Talks**
+
+| **Brett Cannon**: Porting to Python 3
+| **Jason Brackman**: Grinding for Data
+| **Marc Sibson**: "Realtime" Evented Django
+| **Jim DeLaHunt**: Transforming Classical Music and Opera with Python
+| **Jordan Dawe**: Sciencey Things I've Done in Python
+| **Michele Bannister**: Making Python Pretty
+
 See :ref:`the agenda <2015-agenda>` for the full schedule.
-
-Lightning Talks
----------------
-
-Time will be provided for Python and Django lightning talks. Sign up will be on
-site.
 
 Contact
 -------
 
-Vancouver Python Day 2015 is organized by **John Boxall**, **Sebastian
-Vetter**, **Louie Dinh**, **Andy McKay**, and **Bryan Chow**. You can reach us
-at *vanpyday* at *gmail*.
-
-See you at the conference!
+Vancouver Python Day is organized by **John Boxall**, **Sebastian Vetter**,
+**Louie Dinh**, **Andy McKay**, and **Bryan Chow**. You can reach us at
+*vanpyday* at *gmail*. You can also find us at
+`VanPy <http://www.meetup.com/vanpyz/>`_ and
+`DjangoVan <http://www.meetup.com/djangovan/>`_ meetups, held monthly.
 
 Past Events
 -----------
 
-:ref:`Vancouver Python Day 2013 <2013-index>`
-
-.. toctree::
-   :maxdepth: 1
-
-   2015/agenda.rst
-   2015/sponsors.rst
-   2015/code-of-conduct.rst
-   2015/speakers.rst
+| :ref:`Vancouver Python Day 2015 <2015-index>`
+| :ref:`Vancouver Python Day 2013 <2013-index>`
