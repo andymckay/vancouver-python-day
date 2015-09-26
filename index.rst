@@ -30,36 +30,46 @@ day's talks.
 
 | **Keynote: The State of Mobile Python**
 | Russell Keith-Magee, Django Software Foundation
-| `Slides <https://speakerdeck.com/freakboy3742/python-on-the-move-the-state-of-mobile-python-1>`_
+| Slides: `https://speakerdeck.com/freakboy3742/... <https://speakerdeck.com/freakboy3742/python-on-the-move-the-state-of-mobile-python-1>`_
 |
 | **Socializing and Networking for Awkward Humans**
 | `Carly Slater <https://twitter.com/carlyslater>`_
 |
 | **Spreading Python Skills to the Scientific Community**
 | `Bill Mills <https://twitter.com/billdoesphysics>`_, Mozilla Science Lab
-| `Slides <http://billmills.github.io/scienceXpython/>`_
+| Slides: `http://billmills.github.io/scienceXpython/ <http://billmills.github.io/scienceXpython/>`_
 |
 | **Using the Python Data Toolkit: A Live Demo!**
 | Tiffany Timbers
-| `Presentation materials <https://github.com/ttimbers/VanPy_2015>`_
+| Presentation materials: `https://github.com/ttimbers/VanPy_2015 <https://github.com/ttimbers/VanPy_2015>`_
 |
 | **Interesting New Features in Python 3.5**
 | `Brett Cannon <https://twitter.com/brettsky>`_, Microsoft
-| `Slides <https://speakerdeck.com/brettcannon/interesting-new-features-in-python-3-dot-5>`_
+| Slides: `https://speakerdeck.com/brettcannon/... <https://speakerdeck.com/brettcannon/interesting-new-features-in-python-3-dot-5>`_
 |
 | **Algorithmic Trading in Python**
 | Simon Thornington
+| Slides: `https://www.dropbox.com/... <https://www.dropbox.com/s/isv96zngksxqjnn/vanpyday-algotrading.pptx?dl=0>`_
 
-**Lightning Talks**
+We also enjoyed a memorable set of Lightning Talks:
 
-| **Brett Cannon**: Porting to Python 3
-| **Jason Brackman**: Grinding for Data
-| **Marc Sibson**: "Realtime" Evented Django
-| **Jim DeLaHunt**: Transforming Classical Music and Opera with Python
-| **Jordan Dawe**: Sciencey Things I've Done in Python
-| **Michele Bannister**: Making Python Pretty
-
-See :ref:`the agenda <2015-agenda>` for the full schedule.
+| **Porting to Python 3**
+| Brett Cannon
+|
+| **Grinding for Data**
+| Jason Brackman
+|
+| **"Realtime" Evented Django**
+| Marc Sibson
+|
+| **Transforming Classical Music and Opera with Python**
+| Jim DeLaHunt
+|
+| **Sciencey Things I've Done in Python**
+| Jordan Dawe
+|
+| **Making Python Pretty**
+| Michele Bannister
 
 Contact
 -------
