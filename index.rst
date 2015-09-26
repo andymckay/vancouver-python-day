@@ -29,22 +29,22 @@ sponsors and attendees for making this an awesome event. Here's a recap of the
 day's talks.
 
 | **Keynote: The State of Mobile Python**
-| Russell Keith-Magee, Django Software Foundation
+| Russell Keith-Magee (`@freakboy3742 <https://twitter.com/freakboy3742>`_), Django Software Foundation
 | Slides: `https://speakerdeck.com/freakboy3742/... <https://speakerdeck.com/freakboy3742/python-on-the-move-the-state-of-mobile-python-1>`_
 |
 | **Socializing and Networking for Awkward Humans**
-| `Carly Slater <https://twitter.com/carlyslater>`_
+| Carly Slater (`@carlyslater <https://twitter.com/carlyslater>`_)
 |
 | **Spreading Python Skills to the Scientific Community**
-| `Bill Mills <https://twitter.com/billdoesphysics>`_, Mozilla Science Lab
+| Bill Mills (`@billdoesphysics <https://twitter.com/billdoesphysics>`_), Mozilla Science Lab
 | Slides: `http://billmills.github.io/scienceXpython/ <http://billmills.github.io/scienceXpython/>`_
 |
 | **Using the Python Data Toolkit: A Live Demo!**
-| Tiffany Timbers
+| Tiffany Timbers (`@tiffanytimbers <https://twitter.com/tiffanytimbers>`_)
 | Presentation materials: `https://github.com/ttimbers/VanPy_2015 <https://github.com/ttimbers/VanPy_2015>`_
 |
 | **Interesting New Features in Python 3.5**
-| `Brett Cannon <https://twitter.com/brettsky>`_, Microsoft
+| Brett Cannon (`@brettsky <https://twitter.com/brettsky>`_), Microsoft
 | Slides: `https://speakerdeck.com/brettcannon/... <https://speakerdeck.com/brettcannon/interesting-new-features-in-python-3-dot-5>`_
 |
 | **Algorithmic Trading in Python**
