@@ -1,5 +1,5 @@
-Vancouver Python 🐍 Day 2016
-===========================
+Vancouver Python Day 2016
+=========================
 
 The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
 `Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`_ are
@@ -10,7 +10,6 @@ things Python.
         | 8:00 AM - 5:00 PM
 :Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
         | #400 - 401 W. Georgia Street
-
 
 After another succesful Vancouver Python Day in 2015, we are excited to
 announce another iteration for the year 2016 📣!
