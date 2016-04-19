@@ -1,84 +1,67 @@
-Vancouver Python Day
-====================
+Vancouver Python 🐍 Day 2016
+===========================
 
 The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
 `Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`_ are
 pleased to present **Vancouver Python Day**, a one-day mini conference on all
 things Python.
 
-:When: | Saturday September 12, 2015
-       | 9:30AM - 4:00PM
-:Where: | Mobify Vancouver
-        | #300 - 948 Homer St, Vancouver, BC
+:When:  | Saturday June 4th, 2016
+        | 8:00 AM - 5:00 PM
+:Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
+        | #400 - 401 W. Georgia Street
 
-.. image:: /2015/images/mobify_s.png
-.. image:: /2015/images/colony_s.png
-.. image:: /2015/images/heroku_s.png
 
-Vancouver Python Day would not have been possible without our awesome sponsors!
-Please check them out at :ref:`more about our sponsors <2015-sponsors>`.
+After another succesful Vancouver Python Day in 2015, we are excited to
+announce another iteration for the year 2016 📣!
 
-Vancouver Python Day is a not-for-profit event run by volunteers. All
-sponsor-provided funds are applied towards event expenses.
+We already have some great speakers invited that we'll reveal in the next
+little while. I'll also provide more details about tickets and the schedule
+very soon.
 
-Event Recap
------------
+For now, we need your help as a community to make this event great. We need
+your talk proposals!
 
-Vancouver Python Day 2015 was a success! Thank you to all of our speakers,
-sponsors and attendees for making this an awesome event. Here's a recap of the
-day's talks.
 
-| **Keynote: The State of Mobile Python**
-| Russell Keith-Magee (`@freakboy3742 <https://twitter.com/freakboy3742>`_), Django Software Foundation
-| Slides: `https://speakerdeck.com/freakboy3742/... <https://speakerdeck.com/freakboy3742/python-on-the-move-the-state-of-mobile-python-1>`_
-|
-| **Socializing and Networking for Awkward Humans**
-| Carly Slater (`@carlyslater <https://twitter.com/carlyslater>`_)
-|
-| **Spreading Python Skills to the Scientific Community**
-| Bill Mills (`@billdoesphysics <https://twitter.com/billdoesphysics>`_), Mozilla Science Lab
-| Slides: `http://billmills.github.io/scienceXpython/ <http://billmills.github.io/scienceXpython/>`_
-|
-| **Using the Python Data Toolkit: A Live Demo!**
-| Tiffany Timbers (`@tiffanytimbers <https://twitter.com/tiffanytimbers>`_)
-| Presentation materials: `https://github.com/ttimbers/VanPy_2015 <https://github.com/ttimbers/VanPy_2015>`_
-|
-| **Interesting New Features in Python 3.5**
-| Brett Cannon (`@brettsky <https://twitter.com/brettsky>`_), Microsoft
-| Slides: `https://speakerdeck.com/brettcannon/... <https://speakerdeck.com/brettcannon/interesting-new-features-in-python-3-dot-5>`_
-|
-| **Algorithmic Trading in Python**
-| Simon Thornington
-| Slides: `https://www.dropbox.com/... <https://www.dropbox.com/s/isv96zngksxqjnn/vanpyday-algotrading.pptx?dl=0>`_
+Call for Proposals
+------------------
 
-We also enjoyed a memorable set of Lightning Talks:
+:Deadline:  | Monday May 2nd, 2016
+            | 6:00 PM (PST)
 
-| **Porting to Python 3**
-| Brett Cannon
-|
-| **Grinding for Data**
-| Jason Brackman
-|
-| **"Realtime" Evented Django**
-| Marc Sibson
-|
-| **Transforming Classical Music and Opera with Python**
-| Jim DeLaHunt
-|
-| **Sciencey Things I've Done in Python**
-| Jordan Dawe
-|
-| **Making Python Pretty**
-| Michele Bannister
+
+Once again, we are looking for speaker for this great event, giving you an
+opportunity to share your knowledge and insights as a part of the Python
+community. 
+
+We are looking for talks that target beginners as well as experienced
+Pythonistas and we are interested in any topic related to Python or the
+community, regardless of which industry you work in.
+
+So submit us your proposal at http://goo.gl/forms/zAKPsfpAF7.
+
+
+Code of Conduct
+---------------
+
+We are proud to be part of such a diverse community and want to keep it that
+way! We therefore follow the `Python Community Code of Conduct
+<https://www.python.org/psf/codeofconduct/>`__ and the `Django Community
+Diversity Statement <https://www.djangoproject.com/diversity/>`__ and will do
+everything we can to provide an inclusive environment. 
+
+Violations of the Code of Conduct will not be tolerated.
+
 
 Contact
 -------
 
-Vancouver Python Day is organized by **John Boxall**, **Sebastian Vetter**,
-**Louie Dinh**, **Andy McKay**, and **Bryan Chow**. You can reach us at
-*vanpyday* at *gmail*. You can also find us at
+Vancouver Python Day is organized by  **Bryan Chow**, **Sebastian Vetter**,
+**John Boxall** and **Andy McKay**. You can reach us at
+*pythonday* at *pyvr.org*. You can also find us at
 `VanPy <http://www.meetup.com/vanpyz/>`_ and
 `DjangoVan <http://www.meetup.com/djangovan/>`_ meetups, held monthly.
+
 
 Past Events
 -----------
