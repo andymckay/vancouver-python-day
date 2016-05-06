@@ -53,7 +53,7 @@ Contact
 -------
 
 Vancouver Python Day is organized by  **Bryan Chow**, **Sebastian Vetter**,
-**John Boxall** and **Andy McKay**. You can reach us at
+**Tavis Rudd**, **John Boxall** and **Andy McKay**. You can reach us at
 *pythonday* at *pyvr.org*. You can also find us at
 `VanPy <http://www.meetup.com/vanpyz/>`_ and
 `DjangoVan <http://www.meetup.com/djangovan/>`_ meetups, held monthly.
