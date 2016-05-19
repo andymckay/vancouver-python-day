@@ -6,14 +6,15 @@ The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
 pleased to present **Vancouver Python Day 2016**, a one-day mini conference on
 all things Python.
 
+Please join us for a full day of awesome talks covering a wide range of topics
+related to the Python programming language, plus the opportunity to network and
+connect with the local Python developer and business community. Space is
+limited, so plan on buying your tickets early if you plan to attend.
+
 :When:  | Saturday June 4th, 2016
         | 8:00 AM - 5:00 PM
 :Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
         | #400 - 401 W. Georgia Street
-
-Please join us for a full day of awesome Python talks, plus the opportunity to
-network and connect with the local Python community.
-
 
 Tickets
 -------
@@ -29,12 +30,9 @@ attend.
 Call for Proposals
 ------------------
 
-:Deadline:  | Monday May 2nd, 2016
-            | 6:00 PM (PST)
-
 The Call for Proposals is now closed. Thanks to all who submitted talk
-proposals. We are currently reviewing the submissions and aim to have the final
-schedule announced next week.
+proposals. We are currently reviewing the submissions and will be announcing
+the schedule shortly.
 
 
 Code of Conduct
