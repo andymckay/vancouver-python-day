@@ -15,6 +15,9 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 | :ref:`Ship It: Python Packaging and Distribution <2016-knight>`
 | Nathaniel Knight
 |
+| **TBA**
+| Christopher Neugebauer
+|
 | :ref:`Open Source and You <2016-simmons>`
 | Josh Simmons
 |
@@ -23,6 +26,9 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 |
 | :ref:`Click: A Pleasure to Write, a Pleasure to Use <2016-vetter>`
 | Sebastian Vetter
+|
+| :ref:`Python in the NHL Front Office <2016-weissbock>`
+| Josh Weissbock
 |
 | :ref:`Making the Most out of Code Reviews <2016-wijaya>`
 | Mariatta Wijaya
