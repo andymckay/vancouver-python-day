@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Vancouver Python Day'
-copyright = u'2015, Andy McKay, Bryan Chow and others.'
+project = u"Vancouver Python Day"
+copyright = u"2013-2016, Andy McKay, Bryan Chow, Sebastian Vetter and others"
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
