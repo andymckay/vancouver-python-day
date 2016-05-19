@@ -16,15 +16,16 @@ limited, so plan on buying your tickets early if you plan to attend.
 :Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
         | #400 - 401 W. Georgia Street
 
+
 Tickets
 -------
 
-Tickets will be available at http://vanpyday.eventbrite.com/ starting on
-**Friday May 6 at 9AM**. Thanks to our generous sponsors, we've priced the
-tickets affordably for all.
+Early Bird tickets have sold out. We will be releasing the remaining tickets
+soon, and they will be available for purchase at
+http://vanpyday.eventbrite.com/
 
-**Space is limited**, so plan on buying your tickets early if you want to
-attend.
+Check back here or follow `@vanpyday <https://twitter.com/vanpyday>`__ to be
+notified when tickets are available.
 
 
 Call for Proposals
