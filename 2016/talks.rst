@@ -33,11 +33,15 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 | :ref:`Making the Most out of Code Reviews <2016-wijaya>`
 | Mariatta Wijaya
 
+
 Lightning Talks
 ---------------
 
 | **SQLAlchemy Core: Pythonic SQL, No Strings Attached**
 | Daniel Brook-Roberge
+|
+| **Integrate Ontologies into your App**
+| Damion Dooley
 |
 | **My Experience Learning Python from Team Treehouse**
 | Matthew Leung
