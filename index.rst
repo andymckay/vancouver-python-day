@@ -1,8 +1,8 @@
 Vancouver Python Day 2016
 =========================
 
-The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`_ and the
-`Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`_ are
+The `Vancouver Python User Group <http://www.meetup.com/vanpyz/>`__ and the
+`Vancouver Django Meetup Group <http://www.meetup.com/djangovan/>`__ are
 pleased to present **Vancouver Python Day 2016**, a one-day mini conference on
 all things Python.
 
@@ -16,6 +16,9 @@ limited, so plan on buying your tickets early if you plan to attend.
 :Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
         | #400 - 401 W. Georgia Street
 
+Follow `@vanpyday <https://twitter.com/vanpyday>`__ for the latest event
+updates.
+
 .. image:: /2016/images/unbounce_s.png
 .. image:: /2016/images/mobify_s.png
 .. image:: /2016/images/colony_s.png
@@ -24,12 +27,8 @@ limited, so plan on buying your tickets early if you plan to attend.
 Tickets
 -------
 
-Early Bird tickets have sold out. We will be releasing the remaining tickets
-soon, and they will be available for purchase at
-http://vanpyday.eventbrite.com/
-
-Check back here or follow `@vanpyday <https://twitter.com/vanpyday>`__ to be
-notified when tickets are available.
+Early Bird tickets have sold out. The remaining tickets will be released on
+**Wednesday, May 25 at 9AM** at http://vanpyday.eventbrite.com/
 
 
 Scheduled Talks
@@ -99,9 +98,9 @@ Contact
 
 Vancouver Python Day is organized by  **Bryan Chow**, **Sebastian Vetter**,
 **Tavis Rudd**, **John Boxall** and **Andy McKay**. You can reach us at
-*pythonday* at *pyvr.org*. You can also find us at
-`VanPy <http://www.meetup.com/vanpyz/>`_ and
-`DjangoVan <http://www.meetup.com/djangovan/>`_ meetups, held monthly.
+*pythonday* at *pyvr.org*. You can also find us at the
+`VanPy <http://www.meetup.com/vanpyz/>`__ and
+`DjangoVan <http://www.meetup.com/djangovan/>`__ meetups.
 
 
 Past Events
