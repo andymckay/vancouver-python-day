@@ -46,6 +46,9 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 | :ref:`Ship It: Python Packaging and Distribution <2016-knight>`
 | Nathaniel Knight
 |
+| :ref:`The Highs and Lows of a Python Data stack <2016-lau>`
+| Boris Lau
+|
 | **TBA**
 | Christopher Neugebauer
 |
@@ -63,9 +66,6 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 |
 | :ref:`Making the Most out of Code Reviews <2016-wijaya>`
 | Mariatta Wijaya
-|
-| :ref:`The Highs and Lows of a Python Data stack <2016-lau>`
-| Boris Lau
 
 
 Lightning Talks
