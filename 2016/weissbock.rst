@@ -13,6 +13,8 @@ facets of front office activities.
 About Josh Weissbock
 --------------------
 
+`@joshweissbock <https://twitter.com/joshweissbock>`__
+
 Josh Weissbock works in the federal government by day in Victoria BC.  He has
 been involved in hockey analytics for the past half decade from his early days
 of public researching in the hockey analytics blogosphere and

@@ -23,6 +23,8 @@ at a concrete example to show some of its main features.
 About Sebastian Vetter
 ----------------------
 
+`@elbaschid <https://twitter.com/elbaschid>`__
+
 Sebastian has discovered his love for Python early in his University days.
 Since then, he has used it in academic research, financial testing and web
 development. He has made considerable contributions to the django-oscar project
