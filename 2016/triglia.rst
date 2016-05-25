@@ -18,6 +18,8 @@ your circuit breaker in readable Python.
 About Scott Triglia
 -------------------
 
+`@scott_triglia <https://twitter.com/scott_triglia>`__
+
 Scott Triglia is the Tech Lead for Yelp's Transaction Platform team, which
 enables users to transact with Yelp's extensive set of businesses through many
 third party providers. He helped architect Yelp's nearby recommendation engine

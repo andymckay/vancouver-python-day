@@ -15,6 +15,8 @@ belong.
 About Josh Simmons
 ------------------
 
+`@joshsimmons <https://twitter.com/joshsimmons>`__
+
 Josh Simmons is a community organizer and web developer with a penchant for
 armchair philosophy. He currently serves as a board member for the Open Source
 Initiative, is a program manager at Google's Open Source Programs Office, and

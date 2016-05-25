@@ -21,5 +21,6 @@ a year at Amazon before switching to the research world.
 When he's not working, Don designs board games, is on the editorial board of
 the Journal of Game and Puzzle Design, and has been studying Chinese for ten
 years. He's always looking for collaborators, so check out his projects at
-donkirkby.github.com. Don loves programming in Python because all the
-interesting bits are out in the open where you can play with them.
+`donkirkby.github.com <http://donkirkby.github.com/>`__. Don loves programming
+in Python because all the interesting bits are out in the open where you can
+play with them.
