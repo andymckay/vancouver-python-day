@@ -49,7 +49,7 @@ We still have a couple talks TBA pending final confirmation from the speakers.
 | :ref:`The Highs and Lows of a Python Data stack <2016-lau>`
 | Boris Lau
 |
-| **TBA**
+| :ref:`Deciding between Continuity and Change in Open Source <2016-neugebauer>`
 | Christopher Neugebauer
 |
 | :ref:`Open Source and You <2016-simmons>`
