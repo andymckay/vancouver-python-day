@@ -38,8 +38,8 @@ and what a cost-benefit analysis might look like when your currencies
 are human joy, and burnout prevention. 
 
 
-About Sebastian Vetter
-----------------------
+About Christopher Neugebauer
+----------------------------
 
 `@chrisjrn <https://twitter.com/chrisjrn>`__
 
