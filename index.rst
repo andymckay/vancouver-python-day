@@ -27,18 +27,17 @@ updates.
 Tickets
 -------
 
-Early Bird tickets have sold out. The remaining tickets will be released on
-**Wednesday, May 25 at 9AM** at http://vanpyday.eventbrite.com/
-
+Tickets have sold out 😭. But you can add yourself to the waitlist at
+http://vanpyday.eventbrite.com/ in case somebody decides to cancel.
 
 Scheduled Talks
 ---------------
 
+**The talk schedule is now available!** `Check out the agenda <2016-agenda>`__.
+
 Thank you to all who submitted a talk proposal for Vancouver Python Day. Here
 are the selected talks in alphabetical speaker order. The actual talks
 schedule will be announced closer to the event date.
-
-We still have a couple talks TBA pending final confirmation from the speakers.
 
 | :ref:`Live Coding in Python <2016-kirkby>`
 | Don Kirkby
