@@ -30,10 +30,15 @@ Tickets
 Tickets have sold out 😭. But you can add yourself to the waitlist at
 http://vanpyday.eventbrite.com/ in case somebody decides to cancel.
 
-Scheduled Talks
+
+Agenda
 ---------------
 
 **The talk schedule is now available!** `Check out the agenda <2016-agenda>`__.
+
+
+Scheduled Talks
+---------------
 
 Thank you to all who submitted a talk proposal for Vancouver Python Day. Here
 are the selected talks in alphabetical speaker order. The actual talks
