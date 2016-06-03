@@ -12,7 +12,8 @@ connect with the local Python developer and business community. Space is
 limited, so plan on buying your tickets early if you plan to attend.
 
 :When:  | Saturday June 4th, 2016
-        | 8:00 AM - 5:00 PM
+        | 9:15 AM - 5:00 PM
+        | Doors Open at 8:30 AM
 :Where: | `Unbounce Vancouver <https://www.google.ca/maps/place/Unbounce>`__
         | #400 - 401 W. Georgia Street
 
