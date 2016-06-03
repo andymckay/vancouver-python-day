@@ -34,7 +34,7 @@ http://vanpyday.eventbrite.com/ in case somebody decides to cancel.
 Agenda
 ---------------
 
-**The talk schedule is now available!** `Check out the agenda <2016-agenda>`__.
+**The talk schedule is now available.** :ref:`Check it out <2016-agenda>`!
 
 
 Scheduled Talks
