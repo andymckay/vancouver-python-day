@@ -6,8 +6,8 @@ Agenda
 +-------+-------------------------------------------------------------+
 | 9:15	| Welcome & Intro	                                      |
 +-------+-------------------------------------------------------------+
-| 9:30	| | **Open Source and You**                                   |
-|       | | Josh Simmons                                              |
+| 9:30	| | **Click: A Pleasure To Write, A Pleasure To Use**         |
+|       | | Sebastian Vetter                                          |
 +-------+-------------------------------------------------------------+
 | 10:00	| | **Making the most out of Code Reviews**                   |
 |       | | Mariatta Wijaya	                                      |
@@ -20,8 +20,8 @@ Agenda
 | 11:15	| | **Live Coding in Python**                                 |
 |       | | Don Kirkby	                                              |
 +-------+-------------------------------------------------------------+
-| 11:45	| | **Deciding between Continuity and Change in Open Source** |
-|       | | Christopher Neugebauer                                    |
+| 11:45	| | **The high and low of a Python Data stack**               |
+|       | | Boris Lau	                                              |
 +-------+-------------------------------------------------------------+
 | 12:15	| Lunch	                                                      |
 +-------+-------------------------------------------------------------+
@@ -30,13 +30,13 @@ Agenda
 | 13:30	| | **Python in the NHL Front Office**                        |
 |       | | Josh Weissbock                                            |
 +-------+-------------------------------------------------------------+
-| 14:00	| | **The high and low of a Python Data stack**               |
-|       | | Boris Lau	                                              |
+| 14:00	| | **Deciding between Continuity and Change in Open Source** |
+|       | | Christopher Neugebauer                                    |
 +-------+-------------------------------------------------------------+
 | 14:30	| Break	                                                      |
 +-------+-------------------------------------------------------------+
-| 14:45	| | **Click: A Pleasure To Write, A Pleasure To Use**         |
-|       | | Sebastian Vetter                                          |
+| 14:45	| | **Open Source and You**                                   |
+|       | | Josh Simmons                                              |
 +-------+-------------------------------------------------------------+
 | 15:15	| | **Ship It: Python Packaging and Distribution**            |
 |       | | Nathaniel Knight                                          |
