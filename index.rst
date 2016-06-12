@@ -77,6 +77,7 @@ schedule will be announced closer to the event date.
 |
 | **Bye from VanPyDay 2016**
 | Sebastian Vetter `📹 <https://vimeo.com/170384422>`_
+|
 
 
 Lightning Talks
@@ -102,6 +103,8 @@ Lightning Talks
 |
 | **Live coding in SublimeText**
 | Simon Hewitt `📹 <https://vimeo.com/170384423>`_
+|
+
 
 Code of Conduct
 ---------------
