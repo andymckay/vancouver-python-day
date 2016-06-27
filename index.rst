@@ -45,48 +45,65 @@ Thank you to all who submitted a talk proposal for Vancouver Python Day. Here
 are the selected talks in alphabetical speaker order. The actual talks
 schedule will be announced closer to the event date.
 
+| **PyCon2016 Summar**
+| Bryan Chow `📹 <https://vimeo.com/170384407>`_
+|
 | :ref:`Live Coding in Python <2016-kirkby>`
-| Don Kirkby
+| Don Kirkby `📹 <https://vimeo.com/170384412>`_
 |
 | :ref:`Ship It: Python Packaging and Distribution <2016-knight>`
-| Nathaniel Knight
+| Nathaniel Knight `📹 <https://vimeo.com/170384418>`_
 |
 | :ref:`The Highs and Lows of a Python Data stack <2016-lau>`
-| Boris Lau
+| Boris Lau `📹 <https://vimeo.com/170384405>`_
 |
 | :ref:`Deciding between Continuity and Change in Open Source <2016-neugebauer>`
-| Christopher Neugebauer
+| Christopher Neugebauer `📹 <https://vimeo.com/170384408>`_
 |
 | :ref:`Open Source and You <2016-simmons>`
-| Josh Simmons
+| Josh Simmons `📹 <https://vimeo.com/170384414>`_
 |
 | :ref:`Protect Your Users with Circuit Breakers <2016-triglia>`
-| Scott Triglia
+| Scott Triglia `📹 <https://vimeo.com/170384420>`_
 |
 | :ref:`Click: A Pleasure to Write, a Pleasure to Use <2016-vetter>`
-| Sebastian Vetter
+| Sebastian Vetter `📹 <https://vimeo.com/170345707>`_
 |
 | :ref:`Python in the NHL Front Office <2016-weissbock>`
-| Josh Weissbock
+| Josh Weissbock `📹 <https://vimeo.com/170384415>`_
 |
 | :ref:`Making the Most out of Code Reviews <2016-wijaya>`
-| Mariatta Wijaya
+| Mariatta Wijaya `📹 <https://vimeo.com/170384416>`_
+|
+| **Bye from VanPyDay 2016**
+| Sebastian Vetter `📹 <https://vimeo.com/170384422>`_
+|
 
 
 Lightning Talks
 ---------------
 
 | **SQLAlchemy Core: Pythonic SQL, No Strings Attached**
-| Daniel Brook-Roberge
+| Daniel Brook-Roberge `📹 <https://vimeo.com/170384410>`_
 |
 | **Integrate Ontologies into your App**
-| Damion Dooley
+| Damion Dooley `📹 <https://vimeo.com/170384409>`_
 |
 | **My Experience Learning Python from Team Treehouse**
-| Matthew Leung
+| Matthew Leung `📹 <https://vimeo.com/170384419>`_
 |
 | **Web Crawling with Beautiful Soup**
-| Jas Sohi
+| Jas Sohi `📹 <https://vimeo.com/170384413>`_
+|
+| **Computer Science in Public School Education**
+| Arianne Dee `📹 <https://vimeo.com/170384404>`_
+|
+| **Introduction to Anaconda**
+| Derek Ludwig `📹 <https://vimeo.com/170384411>`_
+|
+| **Live coding in SublimeText**
+| Simon Hewitt `📹 <https://vimeo.com/170384423>`_
+|
 
 
 Code of Conduct
