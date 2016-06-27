@@ -37,6 +37,8 @@ within a community; the value of prototypes in maintaining interest;
 and what a cost-benefit analysis might look like when your currencies 
 are human joy, and burnout prevention. 
 
+| Event video: https://vimeo.com/170384408
+|
 
 About Christopher Neugebauer
 ----------------------------

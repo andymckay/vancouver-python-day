@@ -14,6 +14,9 @@ ecosystem's challenges, the general approaches to solving them, a brief history
 of major tools, finishing with an overview of the tools that working
 Pythonistas are likely to encounter in 2016.
 
+| Event video: https://vimeo.com/170384418
+|
+
 About Nathaniel Knight
 ----------------------
 

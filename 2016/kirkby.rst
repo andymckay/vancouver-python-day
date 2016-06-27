@@ -8,6 +8,10 @@ Eclipse plugin that runs your code while you type it. This lets it display
 variable values and looping behaviour right next to the code. Essentially, it
 tightens the feedback cycle so that you see the bugs as you type them.
 
+| Event video: https://vimeo.com/170384412
+| Project info: http://donkirkby.github.io/live-py-plugin/
+|
+
 About Don Kirkby
 ----------------
 

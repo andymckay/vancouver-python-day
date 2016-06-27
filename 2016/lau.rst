@@ -13,6 +13,8 @@ translate python into LLVM to allow native execution. It will let you make
 better use of Python as a numerical tool and preach more cool python to
 others. 
 
+| Event video: https://vimeo.com/170384405
+|
 
 About Boris Lau
 ---------------

@@ -12,6 +12,8 @@ what right so we can all learn from them. We’ll finish by exploring what every
 community member can do to shape and improve the communities to which they
 belong.
 
+| Event video: https://vimeo.com/170384414
+
 About Josh Simmons
 ------------------
 

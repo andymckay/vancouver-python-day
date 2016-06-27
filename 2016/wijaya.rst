@@ -19,6 +19,10 @@ review process. In addition to ensure code quality, code review should be
 considered as a learning tool. It should be considered a positive and rewarding
 experience.
 
+| Event video: https://vimeo.com/170384416
+| Slides: https://t.co/ZY3ZVVLEit
+|
+
 About Mariatta Wijaya
 ---------------------
 

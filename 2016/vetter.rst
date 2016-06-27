@@ -20,6 +20,9 @@ building command line tools such as argparse and docopt. I will then introduce
 click and illustrate some of the benefits over its alternatives before looking
 at a concrete example to show some of its main features.
 
+| Event video: https://vimeo.com/170345707
+|
+
 About Sebastian Vetter
 ----------------------
 

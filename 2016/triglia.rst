@@ -15,6 +15,9 @@ on simple circuit breakers as well as understanding how they can be adapted for
 more complex situations. We'll also discuss some options for how to implement
 your circuit breaker in readable Python.
 
+| Event video: https://vimeo.com/170384420
+|
+
 About Scott Triglia
 -------------------
 

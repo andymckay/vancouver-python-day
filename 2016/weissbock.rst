@@ -10,6 +10,9 @@ the blogosphere to the National Hockey League, Josh will discuss the ways he
 uses Python to process data and solve problems to guide decision makers in all
 facets of front office activities.
 
+| Event video: https://vimeo.com/170384415
+|
+
 About Josh Weissbock
 --------------------
 
